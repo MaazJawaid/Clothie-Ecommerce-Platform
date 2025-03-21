@@ -10,6 +10,8 @@ This is a complete full-stack e-commerce platform built using the **MERN stack**
 
 - **Frontend**: https://private-clothie-ecommerce-platf-git-6bcae8-maazjawaids-projects.vercel.app
 - **Admin Panel**: https://private-clothie-ecommerce-platform-admin.vercel.app
+  - **Email**: admin@example.com
+  - **Password**: maazjawaid123
 
 ---
 
