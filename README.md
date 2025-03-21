@@ -6,6 +6,13 @@ This is a complete full-stack e-commerce platform built using the **MERN stack**
 
 ---
 
+## Live Demo
+
+- **Frontend**: https://private-clothie-ecommerce-platf-git-6bcae8-maazjawaids-projects.vercel.app
+- **Admin Panel**: https://private-clothie-ecommerce-platform-admin.vercel.app
+
+---
+
 ## Features
 
 - **MERN Stack**: MongoDB, Express.js, React, Node.js
