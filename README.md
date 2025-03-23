@@ -110,18 +110,8 @@ cd your-ecommerce-project
    - Copy and paste the **Cloud Name**, **API Key**, and **Secret Key** into the `backend/.env` file.
 
 5. **Setup MongoDB:**
-   - Open the MongoDB [link](#).
-   - Sign up and log in.
-   - Click on **New Project**.
-   - In the **Database Section**, click **Build a Database**.
-   - Select **M0**, choose your region, and create the database.
-   - Set up a **Username & Password** (Avoid `@` in the password).
-   - Click **Finish & Close**.
-   - **Whitelist IP** `0.0.0.0` and click **Add Entry**.
-   - Click **Connect**.
-   - Select **Compass Option**.
-   - Copy the **Connection String** and paste it into `backend/.env`, replacing `<password>` with your password.
-     > **Note:** Do not add `/` at the end of the MongoDB URI.
+   - Open the MongoDB [link](https://mongodb.com/).
+   - Copy the **MongoDB Connection String** and paste it into `backend/.env`, replacing `<password>` with your password.
 
 6. **Setup Stripe (Optional)**
    - Create a [Stripe](https://stripe.com/) account.
