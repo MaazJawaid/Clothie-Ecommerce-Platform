@@ -153,7 +153,7 @@ cd your-ecommerce-project
    ```
 4. Open the provided URL in a browser (default: `http://localhost:5173`).
 
-5. All the images and the initial meta data is in asset folder in frontend folder `ecom-frontend/src/assets` use the assets.js file to upload the initial data.
+5. All the images and the initial meta data is in asset folder in frontend folder `ecom-frontend/src/assets` use the assets.js file to upload the initial data use a script or do it manually.
 
 ---
 
